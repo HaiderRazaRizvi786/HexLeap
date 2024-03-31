@@ -1,0 +1,27 @@
+/* write your css here */
+
+
+.APP.dark-mode{
+    background-color: rgba(41, 43, 50, 1);
+    color: white;
+}
+
+.Card.dark-mode{
+    background-color: rgba(59, 62, 71, 1);
+}
+
+.Card-Last.dark-mode{
+    background-color: rgba(41, 43, 50, 1);
+}   
+
+.ADV.dark-mode{
+    background-color: rgba(59, 62, 71, 1);
+}
+
+.Comp2.dark-mode{
+    background: linear-gradient(180deg, #18282A 0%, #221A2C 100%);
+}
+
+.LastCard.dark-mode{
+    background-color: rgba(59, 62, 71, 1);
+}
